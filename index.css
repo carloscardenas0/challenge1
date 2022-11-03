@@ -1,0 +1,172 @@
+#top{
+display: flex;
+}
+#top-img{
+left: 0;
+width: 90%;
+}
+.button-top{
+border: 1px solid hsl(322, 100%, 66%);
+color: hsl(322, 100%, 66%);
+background-color: white;
+width: 10%;
+border-radius: 16px;
+}
+.contenedor{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.button-top__pink{
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-radius: 16px;
+    border-color: hsl(322, 100%, 66%);
+    padding: 10px 30px 10px 30px;
+    margin: 23px;
+}
+.titulo{
+    font-family: 'Poppins';
+    font-size: 42px;
+    
+}
+#parrafo-top{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#pantallas{
+    margin-top: 40px;
+    justify-content: center;
+    display:flex;
+}
+#datos{
+    display: flex;
+    margin-top: 50px;
+}
+#datos-1{
+    flex-direction: column;
+    width: 60%;
+    padding-left: 170px;
+    align-items: center;
+}
+#datos-1__img{
+    border: 1px solid hsl(322, 100%, 66%);
+}
+#datos-1__titulo{
+    font-family: 'Poppins';
+    font-size: 70px;
+}
+#datos-1__parrafo{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#datos-2{
+    flex-direction: column;
+    width: 40%;
+    padding-left: 50px;
+    align-items: center;
+}
+#datos-2__titulo{
+    font-family: 'Poppins';
+    font-size: 70px;
+}
+#datos-2__parrafo{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#grow{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(207, 100%, 98%);
+}
+.h3{
+    font-family:'Poppins'; 
+}
+.p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#grow{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(207, 100%, 98%);
+}
+#grow-text{
+    width: 50%;
+    background-color: hsl(207, 100%, 98%);
+}
+#grow-div__img{
+    width: 50%;
+}
+#grow-div__img{
+    object-fit: contain;
+    padding-left: 100px;
+    background-color: hsl(207, 100%, 98%);
+}
+#flow{
+    display: flex;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+}
+#flow-text{
+    width: 50%;
+}
+#flow-div__img{
+    width: 50%;
+}
+#flow-div__img{
+    object-fit: contain;
+    padding-left: 100px;
+}
+#your{
+    display: flex;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(207, 100%, 98%);
+}
+#your-text{
+    width: 50%;
+    background-color: hsl(207, 100%, 98%);
+}
+#your-div__img{
+    width: 50%;
+}
+#your-div__img{
+    object-fit: contain;
+    padding-left: 100px;
+    background-color: hsl(207, 100%, 98%);
+}
+.arriba{
+    display: flex;
+    margin: 0;
+}
+#topverde{
+    margin-top: 70px;
+}
+#info{
+    display: flex;
+    background-color: hsl(192, 100%, 9%);
+    color: white;
+}
+.info-p{
+width: 50%;
+margin-left: 50px;
+}
+.info-p__per{
+flex-direction: row;
+display: flex;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h5{
+    font-family: 'Poppins';
+    font-size: 20px;
+}
+#infp-p__in{
+    margin-left: 20px;
+}
+#sub{
+    padding: 20px;
+}
